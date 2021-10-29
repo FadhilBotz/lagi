@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ariffb25/mel-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xmell91/mel-bot)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -12,7 +12,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/ariffb25/mel-bot
+git clone https://github.com/xmell91/mel-bot
 cd mel-bot
 npm install
 npm update
@@ -47,7 +47,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ariffb25/mel-bot
+git clone https://github.com/xmell91/mel-bot
 cd mel-bot
 npm install
 npm update
@@ -63,7 +63,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ariffb25/mel-bot
+git clone https://github.com/xmell91/mel-bot
 cd mel-bot
 npm install
 npm update
@@ -174,7 +174,7 @@ conn.logger.level = 'debug'
 
 ---------
 
-<a href="https://melcanz.com"><img src="https://storage.caliph71.xyz/img/itsuki.jpg" width="100" height="100"></a> | [![Amel](https://github.com/Xmell91.png?size=100)](https://github.com/Xmell91) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) 
+<a href="https://melcanz.com"><img src="https://storage.caliph71.xyz/img/itsuki.jpg" width="100" height="100"></a> | [![Amel](https://github.com/Xmell91.png?size=100)](https://github.com/Xmell91) | [![Ariffb](https://github.com/xmell91.png?size=100)](https://github.com/xmell91) 
 ----|----|----
 [MELCANZ](https://melcanz.com/) | [Amel](https://github.com/Xmell91) | [Ariffb](https://github.com/ariffb25)
 Powered by MELCANZ | - | Partner
