@@ -5,7 +5,7 @@ const { join } = require('path')
 
 let confirmation = {}
 let repository = 'ariffb25/mel-bot'
-let branch = 'master'
+let branch = 'main'
 
 async function handler(m, { text }) {
     let res = await fetch(`https://raw.githubusercontent.com/${repository}/${branch}/${text}`)
