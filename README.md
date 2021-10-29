@@ -174,7 +174,7 @@ conn.logger.level = 'debug'
 
 ---------
 
-<a href="https://melcanz.com"><img src="https://storage.caliph71.xyz/img/itsuki.jpg" width="100" height="100"></a> | [![Amel](https://github.com/Xmell91.png?size=100)](https://github.com/Xmell91) | [![Ariffb](https://github.com/xmell91.png?size=100)](https://github.com/xmell91) 
+<a href="https://melcanz.com"><img src="https://storage.caliph71.xyz/img/itsuki.jpg" width="100" height="100"></a> | [![Amel](https://github.com/Xmell91.png?size=100)](https://github.com/Xmell91) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) 
 ----|----|----
 [MELCANZ](https://melcanz.com/) | [Amel](https://github.com/Xmell91) | [Ariffb](https://github.com/ariffb25)
 Powered by MELCANZ | - | Partner
