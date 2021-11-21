@@ -1,12 +1,12 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6287755080455', '6283128734012'] // Put your number here
+global.owner = ['6288271707571', '6288271707571'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
-  amel: 'https://melcanz.com',
+  amel: 'https://dill.com',
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
